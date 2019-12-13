@@ -1,0 +1,29 @@
+.row{
+	display: flex;
+	justify-content: center;
+	
+}
+body{
+    background-image: linear-gradient(to right,#5B3543, #233C61);
+	color: white;
+}
+
+.buttons{
+	display: flex;
+	flex-direction: column;
+}
+
+.btn{
+	margin-top: 2% !important;
+}
+label{
+	color: white;
+}
+.btn, textarea, input{
+	background-color: #2C293B !important;
+     border-color: #2C293B !important;
+}
+h4{
+	text-align: center;
+	color: white;
+}
